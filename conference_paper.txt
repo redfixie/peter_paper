@@ -1,6 +1,6 @@
 CONFERENCE
-Title:
-Author:
+Title: The best conference paper ever
+Author: Peter, Doc Brown
 
 Abstract:
 
