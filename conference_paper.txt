@@ -1,6 +1,6 @@
 CONFERENCE
-Title:
-Author:
+Title:The best journal paper ever
+Author:John Smith, Peter Dawson
 
 Abstract:
 
