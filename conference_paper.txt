@@ -1,6 +1,7 @@
+
 CONFERENCE
 Title: The best conference paper ever
-Author: Peter, Doc Brown
+Author: Peter, John Smith, Doc Brown
 
 Abstract:
 
